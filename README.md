@@ -14,7 +14,7 @@ My marks:
    Quiz 2: 100/100
    </br></br>
    Midsem: 100/100
-   </br></br>
+   </br>
 </details>
 </br>
 <details> 
@@ -26,7 +26,7 @@ My marks:
    Quiz 2: 4.5/10
    </br></br>
    Finalsem: 27/40
-   </br></br>
+   </br>
 </details>
 </br>
 <details> 
@@ -36,5 +36,5 @@ My marks:
    Midsem: 78/100
    </br></br>
    Quiz 2: 50/50
-   </br></br>
+   </br>
 </details>
