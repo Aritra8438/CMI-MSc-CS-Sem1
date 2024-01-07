@@ -26,6 +26,8 @@ My marks:
    Quiz 2: 4.5/10
    </br></br>
    Finalsem: 27/40
+   </br></br>
+   Grade: 8/10
    </br>
 </details>
 </br>
@@ -36,5 +38,9 @@ My marks:
    Midsem: 78/100
    </br></br>
    Quiz 2: 50/50
+   </br></br>
+   Finalsem: 74/100
+   </br></br>
+   Grade: 10/10
    </br>
 </details>
