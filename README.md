@@ -32,7 +32,7 @@ My marks:
 </details>
 </br>
 <details> 
-  <summary>TOC:</summary></br>
+  <summary>TOC</summary></br>
    Quiz 1: 34/50
    </br></br>
    Midsem: 78/100
