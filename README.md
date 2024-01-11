@@ -5,7 +5,7 @@
 This semester, I've taken 4 core courses, Haskell, TOC, Algorithms and Logic. I have uploaded most of the papers and my responses to them in the respective folders.
 </br></br>
 My marks:
-</br>
+</br></br>
 
 <details> 
   <summary>Algorithms</summary></br>
@@ -40,6 +40,16 @@ My marks:
    Quiz 2: 50/50
    </br></br>
    Finalsem: 74/100
+   </br></br>
+   Grade: 10/10
+   </br>
+</details>
+</br>
+<details> 
+  <summary>Haskell</summary></br>
+   Midsem: 87/100
+   </br></br>
+   Finalsem: 100/100
    </br></br>
    Grade: 10/10
    </br>
