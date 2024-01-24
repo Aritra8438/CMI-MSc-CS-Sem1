@@ -14,6 +14,12 @@ My marks:
    Quiz 2: 100/100
    </br></br>
    Midsem: 100/100
+   </br></br>
+   Quiz 3: 60/100
+   </br></br>
+   Endsem: 125/125
+   </br></br>
+   Grade: 10/10
    </br>
 </details>
 </br>
@@ -25,7 +31,7 @@ My marks:
    </br></br>
    Quiz 2: 4.5/10
    </br></br>
-   Finalsem: 27/40
+   Endsem: 27/40
    </br></br>
    Grade: 8/10
    </br>
@@ -39,7 +45,7 @@ My marks:
    </br></br>
    Quiz 2: 50/50
    </br></br>
-   Finalsem: 74/100
+   Endsem: 74/100
    </br></br>
    Grade: 10/10
    </br>
@@ -49,7 +55,7 @@ My marks:
   <summary>Haskell</summary></br>
    Midsem: 87/100
    </br></br>
-   Finalsem: 100/100
+   Endsem: 100/100
    </br></br>
    Grade: 10/10
    </br>
